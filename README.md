@@ -14,3 +14,7 @@ Simple RestFul API using djangorest framework
 - To install dependencies from this project:
 - cd to root directory where `manage.py` is located
 - `activate environment` then type `pip install -r requirements.txt`
+## Running the project
+- cd to root directory where `manage.py` is located, then
+- type `python manage.py runserver`
+- Open browser then type : `http://localhost:8000/employees`
